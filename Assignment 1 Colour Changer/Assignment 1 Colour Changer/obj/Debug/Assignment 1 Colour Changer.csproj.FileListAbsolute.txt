@@ -1,0 +1,9 @@
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\bin\Debug\Assignment 1 Colour Changer.exe.config
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\bin\Debug\Assignment 1 Colour Changer.exe
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\bin\Debug\Assignment 1 Colour Changer.pdb
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment 1 Colour Changer.csprojResolveAssemblyReference.cache
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment_1_Colour_Changer.Form1.resources
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment_1_Colour_Changer.Properties.Resources.resources
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment 1 Colour Changer.csproj.GenerateResource.Cache
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment 1 Colour Changer.exe
+C:\Users\owlsn\Desktop\CP140\Assignment 1 Colour Changer\Assignment 1 Colour Changer\obj\Debug\Assignment 1 Colour Changer.pdb
